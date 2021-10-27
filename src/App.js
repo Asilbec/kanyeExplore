@@ -55,11 +55,11 @@ function App() {
           <div className='pic' id='late'></div>
           <div className='top' id='latetext'>
             <h1>TOP 5 SONGS : </h1>
-            <h1>1.Gorgeous</h1>
-            <h1>2.Devil In A New Dress</h1>
-            <h1>3.POWER</h1>
-            <h1>4.Runaway</h1>
-            <h1>5.All Of The Lights</h1>
+            <h1>1.Hey Mama</h1>
+            <h1>2.Roses</h1>
+            <h1>3.Gold Digger</h1>
+            <h1>4.Touch The Sky</h1>
+            <h1>5.Diamonds From Sierra Leone - Bonus Track</h1>
           </div>
         </div>
 
